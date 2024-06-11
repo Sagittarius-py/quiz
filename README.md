@@ -8,7 +8,6 @@ A quiz application built with PHP and Blade templates.
 - [Configuration](#configuration)
 - [Testing](#testing)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
